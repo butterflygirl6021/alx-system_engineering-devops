@@ -1,0 +1,2 @@
+tail -qn 1 9-duplicate_last_line>>iacta
+tail -qn 1 9-duplicate_last_line>>iacta
